@@ -62,7 +62,8 @@
     <breakpoint_rules />
     <ui_properties />
   </component>
-  <component name="ProjectRootManager" version="2" />
+  <component name="IdProvider" IDEtalkID="C351CF613B33F8A621B4ADABD71DAA1C" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" />
   <component name="masterDetails">
     <states>
       <state key="GlobalLibrariesConfigurable.UI">
@@ -114,4 +115,3 @@
     </states>
   </component>
 </project>
-

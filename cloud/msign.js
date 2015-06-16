@@ -3,8 +3,8 @@
  */
 var common = require('cloud/common.js');
 
-APPID = AV.applicationId;
-MASTER_KEY = AV.masterKey;
+APPID = 'yky45cgc36t4opjfjfbjv7y1n0uqv1onlkin3fx1bkm6orrx';
+MASTER_KEY = 'bijism81krwbxd87o1cux1twznqew9mizwfffzxj999wdw83';
 
 function _convSign(selfId, convid, targetIds, action, appId, masterKey, nonce,ts) {
   if (targetIds == null) {
